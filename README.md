@@ -1,0 +1,1 @@
+Stuff That Rocks, Stuff That Sucks is a blog appliation with a twist. Instead of allowing the user to post blog text, it instead allows the user to post a list of good things and a list of bad things.
